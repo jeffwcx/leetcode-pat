@@ -27,4 +27,4 @@ For each test case you should output the sum of $A$ and $B$ in one line, with th
 
 ### JS Solution
 
-<!-- <<< @/docs/PAT1002/main.js -->
+<<< @/docs/PAT1002/main.js
