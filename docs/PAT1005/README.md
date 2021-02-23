@@ -22,4 +22,4 @@ one five
 
 ### JS Solution
 
-<!-- <<< @/docs/PAT1005/main.js -->
+<<< @/docs/PAT1005/main.js
